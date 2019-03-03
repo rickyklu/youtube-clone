@@ -19,6 +19,7 @@ tbd
 # Technologies used
 * React
 * React-DOM
+* (Semanti-UI)[https://semantic-ui.com/]
 
 # Credits
 * [Modern React Redux](https://www.udemy.com/react-redux/) for creating the assignment.
