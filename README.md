@@ -19,10 +19,10 @@ tbd
 # Technologies used
 * React
 * React-DOM
-* [Youtube Data API v3](https://developers.google.com/youtube/)
 
 # Credits
 * [Modern React Redux](https://www.udemy.com/react-redux/) for creating the assignment.
+* [Youtube Data API v3](https://developers.google.com/youtube/)
 
 # License
 The MIT License (MIT)
